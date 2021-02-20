@@ -1,0 +1,125 @@
+ *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* //navbar Start/ */
+#navbar-menu{
+    background-color: transparent;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #6F8BA4;
+    position:fixed;
+    border-radius:0px;
+    background:#fff;
+    padding:10px;
+}
+#navbar .navbar-brand .icon{
+    font-size: 25px;
+    color: #6F8BA4;
+    padding: 0px 15px;
+    text-decoration: none;
+    transition: all 0.3s ease 0s;
+    letter-spacing: 2px;
+}
+
+
+
+
+#navbar .d-flex  a .button sign in{ 
+    height: 32px;
+    /* background-color: red;
+    color:#1A153A ;
+    border-radius: 5px;
+    display: none;
+   
+border: 1px solid #1A153A;
+line-height: 21px;
+position: relative;
+overflow: hidden;
+margin-left: 15px;
+margin: 32px, 0px, 0px;
+padding: 0px, 25px;
+font-weight: 700;
+font-size: 12px; */
+}
+
+#navbar .d-flex  a .button sign up{  
+    /* background-color: #1A153A;
+    color:#1A153A;
+    border-radius: 5px;
+    display: inline-block;
+    height: 32px;
+border: 1px solid #1A153A;
+line-height: 21px;
+position: relative;
+overflow: hidden;
+margin-left: 15px;
+margin: 24px, 0px, 0px, 15px;
+padding: 0px, 25px;
+font-weight: 700;
+font-size: 12px; */
+}
+
+/* navbar end */
+
+   /* industry learning Start */
+#text .text-area{
+    padding-top: 250px;
+    padding-left: 50px;
+}
+#text .leading h1 {
+    color: #1E3056;
+    font: 28px "Nunito", sans-serif;
+    margin: 0px 0px 20px;
+    line-height: 1.5;
+}
+#text .leading span{
+    color: #697BA2;
+    margin: 0px 0px 40px;
+    font: 16px "Nunito", sans-serif;
+}
+#text .leading p{
+font-weight: 400;
+font-size: 16px;
+color: #697BA2;
+line-height: 28px;
+letter-spacing: 1px;
+margin-bottom: 40px;
+position: relative
+}
+
+#text .leading .btn-primary{
+color: #FFFFFF;
+font: 12px "Nunito", sans-serif;
+background-color: #1A153A;
+height: 44px;
+width:170px;
+line-height: 2;
+font-size: 12px;
+font-weight: bold;
+}
+   /* industry learning END*/
+   /* Images start */
+  .container .row gy-5  {
+     
+    width: 100%;
+   height: 100%;
+   border-radius: none;
+   column-gap: 10px;
+    padding: 0 4px;
+   }
+   .col-lg-6 .image{
+    width: 398px;
+    height: 133px;
+   }
+ 
+/*    
+
+   
+    
+   
+
+
+
